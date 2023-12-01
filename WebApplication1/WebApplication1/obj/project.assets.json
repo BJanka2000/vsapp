@@ -100,19 +100,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jgofsm\\.nuget\\packages\\": {}
+    "C:\\Users\\Janka\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jgofsm\\source\\repos\\vsapp\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\Janka\\Source\\Repos\\vsapp\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\jgofsm\\source\\repos\\vsapp\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
-      "packagesPath": "C:\\Users\\jgofsm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jgofsm\\source\\repos\\vsapp\\WebApplication1\\WebApplication1\\obj\\",
+      "projectPath": "C:\\Users\\Janka\\Source\\Repos\\vsapp\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "packagesPath": "C:\\Users\\Janka\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Janka\\Source\\Repos\\vsapp\\WebApplication1\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jgofsm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Janka\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -120,7 +120,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -163,7 +162,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
